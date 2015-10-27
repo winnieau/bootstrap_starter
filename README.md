@@ -8,8 +8,6 @@ Steps completed so far
 * Create bootstrap_starter directory under projects directory
 * Move css, js and fonts files to bootstrap_starter directory
 * Initiate git repo for version control
+* Edit template to just have navbar (as a starting place)
 
 ```
-
-
-Creating template with navbar
