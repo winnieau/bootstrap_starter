@@ -9,5 +9,6 @@ Steps completed so far
 * Move css, js and fonts files to bootstrap_starter directory
 * Initiate git repo for version control
 * Edit template to just have a nav bar (as a starting place)
+* Elements on nav bar become brighter when hovering over them
 
 ```
