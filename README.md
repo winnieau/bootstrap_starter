@@ -14,7 +14,6 @@ Set up
 
 Having a basic nav bar
 
-
 * Edit template to just have a nav bar (as a starting place)
 * Elements on nav bar have hover effect
 
