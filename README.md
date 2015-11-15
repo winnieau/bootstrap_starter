@@ -1,7 +1,7 @@
 Learning some basic bootstrap
 ===
 
-Steps completed so far
+Steps completed 
 ---
 
 ```
